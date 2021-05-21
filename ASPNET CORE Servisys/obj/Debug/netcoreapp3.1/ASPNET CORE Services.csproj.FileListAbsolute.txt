@@ -1,0 +1,36 @@
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.deps.json
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.pdb
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csprojAssemblyReference.cache
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.AssemblyInfoInputs.cache
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.AssemblyInfo.cs
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csproj.CoreCompileInputs.cache
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csproj.CopyComplete
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\fajo1\source\repos\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.pdb
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.deps.json
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.pdb
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csprojAssemblyReference.cache
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.AssemblyInfoInputs.cache
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.AssemblyInfo.cs
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csproj.CoreCompileInputs.cache
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csproj.CopyComplete
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.pdb
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.deps.json
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNET CORE Services.pdb
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csprojAssemblyReference.cache
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.AssemblyInfoInputs.cache
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.AssemblyInfo.cs
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csproj.CoreCompileInputs.cache
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.csproj.CopyComplete
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Servisys\obj\Debug\netcoreapp3.1\ASPNET CORE Services.pdb

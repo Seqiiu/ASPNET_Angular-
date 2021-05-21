@@ -1,0 +1,36 @@
+C:\Users\fajo1\source\repos\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.deps.json
+C:\Users\fajo1\source\repos\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\fajo1\source\repos\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csprojAssemblyReference.cache
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfoInputs.cache
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfo.cs
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CoreCompileInputs.cache
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\fajo1\source\repos\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\fajo1\source\repos\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\fajo1\source\repos\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CopyComplete
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.deps.json
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csprojAssemblyReference.cache
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfoInputs.cache
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfo.cs
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CoreCompileInputs.cache
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CopyComplete
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\fajo1\source\reposOLD\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.deps.json
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csprojAssemblyReference.cache
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfoInputs.cache
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfo.cs
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CoreCompileInputs.cache
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CopyComplete
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
