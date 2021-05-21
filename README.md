@@ -1,2 +1,2 @@
 # ASPNET_Angular-
-Real chat
+Real chat usig a SignalR
