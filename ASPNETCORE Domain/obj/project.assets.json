@@ -750,11 +750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj",
+      "projectUniqueName": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj",
       "projectName": "ASPNETCORE Domain",
-      "projectPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj",
+      "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj",
       "packagesPath": "C:\\Users\\fajo1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNETCORE Domain\\obj\\",
+      "outputPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

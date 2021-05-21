@@ -6628,11 +6628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPMET CORE\\ASPMET CORE.csproj",
+      "projectUniqueName": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPMET CORE\\ASPMET CORE.csproj",
       "projectName": "ASPMET CORE",
-      "projectPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPMET CORE\\ASPMET CORE.csproj",
+      "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPMET CORE\\ASPMET CORE.csproj",
       "packagesPath": "C:\\Users\\fajo1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPMET CORE\\obj\\",
+      "outputPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPMET CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6655,14 +6655,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNET CORE Database\\ASPNET CORE Database.csproj": {
-              "projectPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNET CORE Database\\ASPNET CORE Database.csproj"
+            "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Database\\ASPNET CORE Database.csproj": {
+              "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Database\\ASPNET CORE Database.csproj"
             },
-            "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj": {
-              "projectPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj"
+            "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj": {
+              "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj"
             },
-            "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj": {
-              "projectPath": "C:\\Users\\fajo1\\source\\reposOLD\\Projekt ASP 1\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj"
+            "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj": {
+              "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj"
             }
           }
         }
