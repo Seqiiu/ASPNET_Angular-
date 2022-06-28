@@ -288,3 +288,100 @@ C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPMET CORE\obj\Debug\netcoreapp3.1
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.dll
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.pdb
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.genruntimeconfig.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.StaticWebAssets.xml
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.exe
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.deps.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.runtimeconfig.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.runtimeconfig.dev.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.Views.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPMET CORE.Views.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPNET CORE Services.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPNET CORE Services.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.csproj.AssemblyReference.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.AssemblyInfoInputs.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.AssemblyInfo.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.RazorAssemblyInfo.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.RazorAssemblyInfo.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\staticwebassets\ASPMET CORE.StaticWebAssets.Manifest.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.TagHelpers.input.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.TagHelpers.output.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.RazorCoreGenerate.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.RazorTargetAssemblyInfo.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.RazorTargetAssemblyInfo.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.Views.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.csproj.CopyComplete
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPMET CORE\obj\Debug\netcoreapp3.1\ASPMET CORE.genruntimeconfig.cache

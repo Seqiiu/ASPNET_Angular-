@@ -6621,28 +6621,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fajo1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\TEST\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPMET CORE\\ASPMET CORE.csproj",
+      "projectUniqueName": "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPMET CORE\\ASPMET CORE.csproj",
       "projectName": "ASPMET CORE",
-      "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPMET CORE\\ASPMET CORE.csproj",
-      "packagesPath": "C:\\Users\\fajo1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPMET CORE\\obj\\",
+      "projectPath": "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPMET CORE\\ASPMET CORE.csproj",
+      "packagesPath": "C:\\Users\\TEST\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPMET CORE\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\fajo1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\TEST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6655,14 +6647,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Database\\ASPNET CORE Database.csproj": {
-              "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Database\\ASPNET CORE Database.csproj"
+            "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPNET CORE Database\\ASPNET CORE Database.csproj": {
+              "projectPath": "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPNET CORE Database\\ASPNET CORE Database.csproj"
             },
-            "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj": {
-              "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj"
+            "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj": {
+              "projectPath": "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPNET CORE Servisys\\ASPNET CORE Services.csproj"
             },
-            "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj": {
-              "projectPath": "C:\\Users\\fajo1\\source\\Projekty do GIta Publiczne\\ASPNET_Angular-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj"
+            "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj": {
+              "projectPath": "C:\\Users\\TEST\\Source\\Repos\\ASPNET_Angular-Chat-\\ASPNETCORE Domain\\ASPNETCORE Domain.csproj"
             }
           }
         }
@@ -6712,7 +6704,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

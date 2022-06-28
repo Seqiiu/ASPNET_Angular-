@@ -34,3 +34,16 @@ C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netc
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CopyComplete
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.dll
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.deps.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNET CORE Database.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.AssemblyReference.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfoInputs.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.AssemblyInfo.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.csproj.CopyComplete
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNET CORE Database\obj\Debug\netcoreapp3.1\ASPNET CORE Database.pdb

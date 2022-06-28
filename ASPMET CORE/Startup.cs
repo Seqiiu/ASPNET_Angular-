@@ -35,6 +35,7 @@ namespace ASPMET_CORE
             .AddDefaultTokenProviders();
 
             services.AddTransient<IMessagesRepository, MessagesRepository>();
+            
 
             services.AddSignalR();
 

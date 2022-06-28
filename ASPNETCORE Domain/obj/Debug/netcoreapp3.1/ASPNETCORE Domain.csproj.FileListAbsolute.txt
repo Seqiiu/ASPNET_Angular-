@@ -25,3 +25,13 @@ C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNETCORE Domain\obj\Debug\netcore
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.csproj.CoreCompileInputs.cache
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
 C:\Users\fajo1\source\reposOLD\Projekt ASP 1\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.deps.json
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\bin\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.csproj.AssemblyReference.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.AssemblyInfoInputs.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.AssemblyInfo.cs
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.dll
+C:\Users\TEST\Source\Repos\ASPNET_Angular-Chat-\ASPNETCORE Domain\obj\Debug\netcoreapp3.1\ASPNETCORE Domain.pdb
